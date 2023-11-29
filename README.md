@@ -61,4 +61,12 @@ depending on whether doing increasing or decreasing values, while storing the ro
 
     Once I had confirmed the code worked for worksheet "2018" I repeated the process for worksheets "2019" and "2020"
 
-    I have made appropriate screen shots showing the results for each worksheet.
+    I have made appropriate screenshots showing the results for each worksheet.
+
+    I have uploaded AnalyzeStockSummary.txt. This file contains the code. I have also
+    uploaded AnalyzeStockSummary.vbs
+
+    I tried to upload the workbook Multiple_year_stock_data.xlsm, however, Git Hub Rejected the file as being too large (77MB as Git Hubs maximum of 25.
+
+    You can find my workbook online at https://d.docs.live.net/22a4cee72c1fe257/Desktop/VBA Homework/Multiple-year-stock-data/Multiple_year_stock_data.xlsm. My username is jerry.hooper@bigpond.com, password: JWHmicrosoft$. Note - both are case-sensitive.
+    
